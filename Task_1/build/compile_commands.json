@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/saveliy/Документы/453502/ОАиП/LR7/Task_1/build",
+  "command": "/usr/bin/g++    -fsanitize=leak -fsanitize=address -fsanitize=undefined -g -std=gnu++11 -o CMakeFiles/Task_1.dir/Task_1.cpp.o -c /home/saveliy/Документы/453502/ОАиП/LR7/Task_1/Task_1.cpp",
+  "file": "/home/saveliy/Документы/453502/ОАиП/LR7/Task_1/Task_1.cpp",
+  "output": "CMakeFiles/Task_1.dir/Task_1.cpp.o"
+}
+]

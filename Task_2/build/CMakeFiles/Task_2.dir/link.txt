@@ -1,0 +1,1 @@
+/usr/bin/g++  -fsanitize=leak -fsanitize=address -fsanitize=undefined -g  -fsanitize=address CMakeFiles/Task_2.dir/Task_2.cpp.o -o Task_2 
